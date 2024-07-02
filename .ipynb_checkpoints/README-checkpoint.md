@@ -4,7 +4,6 @@
  - very simple steps to follow, ha ha ha!!!
 
 
-
 ## Phase 1: Foundation
 
 ### 1. Learn the Basics of Statistics
