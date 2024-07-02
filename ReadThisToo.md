@@ -6,6 +6,8 @@
 
 ## Formulas I Should Know
 
+### All Probability Formulas
+
 ### Percentile Formulas [[statitical measure of how data is distributed]]
 
 To find the k-th percentile of a dataset:
