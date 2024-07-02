@@ -1,5 +1,9 @@
 # Key Formulas in Data Analytics
 
+ -  Association is not Causation
+ -  palcebo effect
+ -  stratified(we create strata and then pick from them) vs simple sampling
+
 ## Formulas I Should Know
 
 ### Percentile Formulas [[statitical measure of how data is distributed]]
