@@ -19,7 +19,7 @@
 
 ### 3. Data Cleaning and Preparation
 - **Tools**: Python (Pandas, NumPy), R (dplyr, tidyr)
-- **Skills**: Data wrangling, handling missing values, data transformation
+- **Skills**: Feature Engineering, Data wrangling, handling missing values, data transformation
 - **Resources**: Kaggle tutorials, Coursera courses
 
 ### 4. Data Visualization
