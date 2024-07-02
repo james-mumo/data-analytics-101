@@ -47,7 +47,7 @@
 ### 8. Machine Learning Basics
 - **Tools**: Scikit-learn (Python), caret (R)
 - **Skills**: Supervised and unsupervised learning, model evaluation
-- **Resources**: Coursera (Andrew Ng’s Machine Learning), DataCamp
+- **Resources**: Kaggle Course (The Best - https://www.kaggle.com/learn/intro-to-machine-learning), Coursera (Andrew Ng’s Machine Learning), DataCamp
 
 ## Phase 5: Big Data and Cloud Computing
 
